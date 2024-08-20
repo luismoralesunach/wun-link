@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.addButtonContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+
+.addLinkBtn{
+    width: 25%;
+    
+    border-radius: 25em;
+    background-color: blueviolet;
+    color: white;
+    border: 0;
+}

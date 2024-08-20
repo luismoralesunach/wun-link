@@ -1,0 +1,14 @@
+/* In your global CSS file (e.g., index.css) */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: inherit; /* This allows the color to inherit from the parent element */
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  
